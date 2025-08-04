@@ -22,7 +22,7 @@ In this stage, we will enhance the chatbot by incorporating Retrieval-Augmented 
 
 Example code for this stage is available in the [stage2.py](./stage2.py) file and can be run using the command `python stage2.py`.
 
-<!-- ![snapshot2](./assets/stage2.png) -->
+![snapshot2](./assets/stage2.png)
 
 ### Stage 03 : Custom Tools with CrewAI
 
